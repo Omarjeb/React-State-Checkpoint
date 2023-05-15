@@ -1,0 +1,18 @@
+.vdbar{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:space-around;
+   align-items: center;
+   width: 100%;
+   gap: 30px;
+   margin: 0%;
+   margin-top: 2%;
+   
+}
+.vdbar>div{
+    width:30%;
+}
+p{
+   font-size: larger; 
+   font-family: Arial, Helvetica, sans-serif; 
+}
